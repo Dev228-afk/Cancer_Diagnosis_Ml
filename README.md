@@ -69,5 +69,3 @@ This project can be tested in real-world with similar data. The shape of the tes
 ##
 • Do Star this Repo if it helped you anyway.
 
-## Acknowledgments
-•	Applied AI Course
